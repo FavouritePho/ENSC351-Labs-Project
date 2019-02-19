@@ -1,2 +1,2 @@
-# ENSC351-Labs-Project
+# ENSC351-Embedded & RT System Software-Labs & Project
 C++ Labs and project
